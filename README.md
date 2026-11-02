@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Header Banner / Typing SVG -->
+  <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,36&height=180&section=header&text=¡Hola,%20soy%20Said%20Barrera!%20👋&fontSize=38&fontAlignY=38&desc=Software%20Developer%20|%20Passionate%20about%20building%20impactful%20solutions&descAlignY=62&descSize=18&fontColor=ffffff" width="100%" />
 
   <br/>
@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/lsbm91" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:lbsm91@gmail.com">
+  <a href="mailto:tlsbm91@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/SaidBarrera" target="_blank">
@@ -77,10 +77,10 @@
 
 <!-- Tarjetas interactivas de tus repositorios -->
 <a href="https://github.com/SaidBarrera/VetCarePro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaidBarrera&repo=VetCarePro&theme=radical&hide_border=true&title_color=61DAFB" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=SaidBarrera&repo=VetCarePro&theme=radical&hide_border=true&title_color=61DAFB" />
 </a>
 <a href="https://github.com/SaidBarrera/helmetShop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaidBarrera&repo=helmetShop&theme=radical&hide_border=true&title_color=61DAFB" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=SaidBarrera&repo=helmetShop&theme=radical&hide_border=true&title_color=61DAFB" />
 </a>
 
 </div>
@@ -91,14 +91,14 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=SaidBarrera&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de Said" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=SaidBarrera&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de Said" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidBarrera&layout=compact&theme=radical&hide_border=true" alt="Lenguajes principales" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SaidBarrera&layout=compact&theme=radical&hide_border=true" alt="Lenguajes principales" height="165" />
 
   <br/><br/>
 
   <!-- Racha de GitHub -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaidBarrera&theme=radical&hide_border=true" alt="Racha de GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=SaidBarrera&theme=radical&hide_border=true" alt="Racha de GitHub" />
 
 </div>
 
